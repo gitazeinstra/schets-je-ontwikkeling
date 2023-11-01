@@ -1,7 +1,5 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-# Naam deeltaak
+# Schets je ontwikkeling
+Voor deze deeltaak heb ik een praatplaat geschetst die beschrijft hoe mijn mijn eerste 3 sprints op FDND gegaan zijn.
 
 ## Licentie
 
